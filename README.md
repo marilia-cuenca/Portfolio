@@ -1,19 +1,15 @@
-# Portfolio
- Site com meu portfolio de projetos em JS, CSS e HTML
+# Portfólio 
+Olá, Bem vindo ao meu projeto de portfólio.
 
-```
 
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image]()
+## ✔️ Técnicas e tecnologias utilizadas
 
-## Ferramentas utilizadas:
+- `HTML`
+- `CSS`
+- `Flexbox`
 
-* HTML
 
-* CSS
-
-* Flex-box
 
 ## Feito por:
 
@@ -21,8 +17,16 @@
 
 ### Linkedin: https://www.linkedin.com/in/mariliacuenca/
 
-```
 
-Veja que legal como fica a página inicial do repositório:
+
+## Veja que legal como fica a página inicial do repositório:
 
 Resultado
+![image]()
+
+
+
+
+## 🛠️ Abrir e rodar o projeto
+
+Para abrir e rodar o projeto, basta abrir o aquivo `index.html` no navegador.
